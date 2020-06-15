@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background: grey;
+    text-align: center;
+}
+
+h1, p{
+    color: white;
+}
